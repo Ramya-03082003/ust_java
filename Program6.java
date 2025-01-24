@@ -1,5 +1,3 @@
-
-// Program6.java - Demonstrates encapsulation
 class Student {
     private String name;
     private int age;

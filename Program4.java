@@ -1,5 +1,3 @@
-
-// Program4.java - Demonstrates method overloading
 class Calculator {
     int add(int a, int b) {
         return a + b;

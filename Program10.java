@@ -1,5 +1,3 @@
-
-// Program10.java - Demonstrates final keyword usage
 class FinalDemo {
     final int value = 100;
 

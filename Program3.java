@@ -1,5 +1,3 @@
-
-// Program3.java - Demonstrates constructors in classes
 class Car {
     String brand;
     int year;

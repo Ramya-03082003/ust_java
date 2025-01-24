@@ -1,5 +1,3 @@
-
-// Program2.java - Demonstrates abstraction using an abstract class
 abstract class Shape {
     abstract void draw();
 }

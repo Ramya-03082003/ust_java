@@ -1,5 +1,3 @@
-
-// Program1.java - Demonstrates creating and using classes and objects
 class Person {
     String name;
     int age;
